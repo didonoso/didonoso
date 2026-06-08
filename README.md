@@ -47,7 +47,7 @@ const diego = {
 #### **INDRA** | *Software Engineer*
 📅 August 2023 - Present
 
-**Project: PMGD - NetBilling - PIP** *(Oct 2025 - Jan 2026)*
+**Project: PMGD - NetBilling - PIP** *(Oct 2025 - May 2026)*
 - 🔄 Database migration from Oracle → PostgreSQL
 - 🌐 Endpoint migration and adjustment for enel.cl
 - ⚙️ Development of process console with CSV extraction and automated email delivery
@@ -59,7 +59,7 @@ const diego = {
 - 🏗️ Implementation of Clean Architecture and Mediator pattern
 - 💻 **Stack:** ASP .NET Core 9, Angular 15, CSS, HTML
 
-**Project: Codelco - SIC3PRO** *(Jan 2025 - Present)*
+**Project: Codelco - SIC3PRO** *(Jan 2025 - May 2026)*
 - 🆕 Development of 'PIE' module
 - 🔧 Issue resolution and continuous improvement
 - 💻 **Stack:** PHP, JavaScript, CSS, HTML
@@ -167,18 +167,6 @@ const diego = {
 
 **IP DUOC UC** | *Technical Analyst Programmer*  
 📅 2019 - 2021
-
----
-
-### 🎯 Current Focus
-
-- 🔭 Working on large-scale projects for the energy and industrial sectors
-- 🌱 Learning advanced cloud architectures and design patterns
-- 👯 Open to collaborate on open source projects
-- 💬 Ask me about full stack development, clean architecture, Python, .NET Core
-- ⚡ Fun fact: I transform coffee ☕ into code 💻
-
----
 
 ### 📫 Let's Connect
 
