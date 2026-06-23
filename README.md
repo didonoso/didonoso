@@ -168,20 +168,6 @@ const diego = {
 **IP DUOC UC** | *Technical Analyst Programmer*  
 📅 2019 - 2021
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://didonoso.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/diegodonosovera" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:diegoignaciodonosovera@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge" alt="Email" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
