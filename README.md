@@ -22,26 +22,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```javascript
-const diego = {
-    location: "Chile 🇨🇱",
-    currentRole: "Software Engineer @ INDRA",
-    education: "Technical Analyst Programmer @ DUOC UC (2019-2021)",
-    phone: "+56 939588742",
-    specialization: "Full Stack Development",
-    experience: [
-        "Enterprise projects for energy & industrial sectors",
-        "Clean Architecture & Design Patterns",
-        "Scalable and maintainable systems"
-    ],
-    interests: ["Web Development", "AI/ML", "Cloud Architecture", "Clean Code"]
-};
-```
-
----
-
 ### 💼 Professional Experience
 
 #### **INDRA** | *Software Engineer*
